@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Acknowledgements**
 - Inspired by the work of quantum computing pioneers and frameworks like **Qiskit** and **IBM Quantum**.
-- Built with ❤️ by [Your Name](https://github.com/shreyazh).
+- Built with ❤️ by [Shreyash Srivastva](https://github.com/shreyazh).
 
 ---
 
