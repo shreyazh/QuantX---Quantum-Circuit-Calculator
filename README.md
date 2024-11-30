@@ -1,7 +1,7 @@
 # **QuantX**
 
 **QuantX** is an interactive quantum circuit simulator that allows users to experiment with quantum gates and visualize the resulting measurement probabilities. Designed as an educational tool, it helps users explore quantum computing concepts in a simplified, accessible manner.
-
+[Visit main site](https://v0-quant-x-vbln9ohlydy-lk6yzdd0y-shreyazhs-projects.vercel.app/)
 ---
 
 ## **Inspiration**
